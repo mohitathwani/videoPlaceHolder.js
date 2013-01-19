@@ -1,7 +1,7 @@
 /*
   Author : Mohit Athwani
-	C/o : Tera Mo Labs
-	URL : http://www.teramolabs.in
+	Email : mohit@athwani.net
+	Twitter : @UIMohitAthwani
 	License : MIT Open Source License
 
 */
